@@ -45,4 +45,3 @@ function removeFirstKitten() {
   var newArray = kittens.slice(1)
   return newArray;
 }
-
