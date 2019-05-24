@@ -26,8 +26,3 @@ function appendKitten(name) {
   newArray =  kittens.concat(array);
   return newArray;
 }
-
-
-
-
-
